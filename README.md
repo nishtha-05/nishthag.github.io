@@ -1,0 +1,1 @@
+Welcome to my Data Analyst Portfolio Website! This site showcases my skills, projects, and experience in data analysis, visualization, and business intelligence. Whether you're a potential employer, collaborator, or fellow data enthusiast, feel free to explore my work and get in touch.
